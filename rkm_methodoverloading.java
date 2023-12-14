@@ -1,7 +1,7 @@
 
 public class rkm_methodoverloading {
     static void tellJoke(){
-        System.out.println("Tell me a joke Your job is depend on it");
+        System.out.println("Tell me a joke.");
     }
     static void foo(){
         System.out.println("Good Morning Bro!");
