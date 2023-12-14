@@ -6,7 +6,7 @@ public class ArrayListsforeach {
         obj.add("susil");
         obj.add("bimraj");
         obj.add("baya");
-        obj.add("geu");
+        obj.add("geovany");
         for(String name : obj){
             System.out.println(name);
         }
