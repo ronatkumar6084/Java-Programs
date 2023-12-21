@@ -30,8 +30,8 @@ interface HornBycycle{
         avonCycle rkmCycle = new avonCycle();
         rkmCycle.applyBreak(1);
         rkmCycle.speedUp(1);
-        // rkmCycle.a= 23;
-        System.out.println(rkmCycle.a);
+        // rkmCycle.a= 23; in interface variables are final and static by default.
+        System.out.println(ByCycle.a);
         rkmCycle.blowHornk3g();
         rkmCycle.blowHornMhn();
         rkmCycle.blowHorn();
